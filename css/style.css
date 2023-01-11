@@ -1,4 +1,16 @@
 body{
     font-family: 'Sriracha', cursive;
+    font-size: 18px;
+    background-color: rgb(31, 99, 40);
+}
 
+h1{
+    font-family: 'Maitree', serif;
+    font-size: 3rem;
+
+}
+
+p{
+    color: rgb(0, 255, 149);
+   
 }
